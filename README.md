@@ -3,9 +3,15 @@
 
 It is a sophisticated fall detection system implemented in Python, utilizing YOLOv8 object detection for precise identification of falls in video streams. Upon detecting a fall, it promptly sends alerts via Telegram, including an image of the incident for added context. This system finds applications in elderly care facilities, public safety, and home monitoring, offering swift assistance and peace of mind to caregivers and family members. Compared to human monitoring, AlertWatch boasts superior speed, consistency, scalability, and accuracy, making it a highly efficient solution for ensuring the safety of individuals in various environments.
 
-## Working
+## Output
+
+### Output while running the program
+
 ![Sample Output](./fall_image.jpg)
 
+After setting up the Telegram Bot.
+
+![Sample Output](./output.jpg)
 
 ## Installation
 
