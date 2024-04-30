@@ -43,7 +43,7 @@ After setting up the Telegram Bot.
 ## Configuration
 
 - `fall.mp4`: Input video file containing test footage to be analyzed.
-- `telegram_bot_token`: Telegram bot token used for sending notifications 
+- `telegram_bot_token`: Telegram bot token used for sending notifications
 [create your own bot and feed the bot token to get message to your phone].
 - `chat_id`: Chat ID of the recipient for Telegram notifications.
 
@@ -53,4 +53,3 @@ After setting up the Telegram Bot.
 - cvzone
 - ultralytics YOLO
 - requests
-
